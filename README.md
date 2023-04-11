@@ -1,6 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlfyuan)](https://github.com/zlfyuan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlfyuan&langs_count=8)](https://github.com/zlfyuan/github-readme-stats)
 
 
 
