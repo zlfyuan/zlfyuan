@@ -1,11 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/zlfyuan/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlfyuan)](https://github.com/zlfyuan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlfyuan&langs_count=8)](https://github.com/zlfyuan/github-readme-stats)
 
 
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=zlfyuan" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlfyuan&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
 
 - 👋 Hi, I’m @zlfyuan
 - 👀 I’m interested in ...
