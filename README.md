@@ -1,4 +1,5 @@
-<!-- <img align="right" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlfyuan)](https://github.com/anuraghazra/github-readme-stats)" /> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/zlfyuan/github-readme-stats)
+
 
 <div align="center">
 <span>  </span>
